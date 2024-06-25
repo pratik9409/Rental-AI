@@ -1,0 +1,13 @@
+[phases.tesseract]
+cmds = [
+  "apt update",
+  "apt install -y tesseract-ocr"
+]
+dependsOn = ["install"]
+
+[phases.poppler]
+cmds = [
+  "apt update",
+  "apt install -y poppler-utils"
+]
+dependsOn = ["install"]

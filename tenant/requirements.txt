@@ -1,0 +1,11 @@
+boto3
+docx2pdf
+pdf2image
+Pillow
+pymongo
+PyPDF2
+pytesseract
+python-dotenv
+python_docx
+reportlab
+streamlit
