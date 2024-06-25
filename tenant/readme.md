@@ -1,4 +1,4 @@
-Tenant Application Generator
+# Tenant Application Generator
 This is a Streamlit application that allows tenants to generate a comprehensive application for rental properties. The application collects various documents and information from the tenant and generates a combined PDF file containing all the submitted data. The generated PDF can be sent directly to the tenant's email address or to the landlord/realtor/property manager upon request.
 
 Technologies Used
