@@ -1,4 +1,4 @@
-SmartRealtor.ai
+# SmartRealtor.ai
 SmartRealtor.ai is a powerful AI-driven platform designed to streamline the rental property management process. It leverages cutting-edge technologies such as OpenAI's GPT-3.5-turbo language model, Streamlit for building interactive web applications, and MongoDB for data storage.
 
 Technologies Used
